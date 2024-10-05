@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2979595941056801054}
   - component: {fileID: 8662061151962829708}
   - component: {fileID: 431384025648150212}
+  - component: {fileID: 5679118015255359951}
   m_Layer: 0
   m_Name: BigPen
   m_TagString: Untagged
@@ -120,3 +121,19 @@ CapsuleCollider2D:
   m_Offset: {x: -0.013460542, y: 0.8053612}
   m_Size: {x: 1.7711465, y: 1.6047109}
   m_Direction: 1
+--- !u!114 &5679118015255359951
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8487233601659289125}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fa0352a4d56abd42ad2fc69deb72448, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Size: {x: 1.8950737, y: 1.7598367, z: 4}
+  m_Center: {x: 0.013407111, y: 0.75531936, z: 0}
+  m_Area: 1
+  m_AffectedAgents: ffffffff
