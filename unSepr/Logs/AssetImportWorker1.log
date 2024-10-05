@@ -389,3 +389,24 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 3395.289782 seconds.
+  path: Assets/SunnyLand House Props Expansion Pack/Props PNG/rock-1.png
+  artifactKey: Guid(da815d2f6d670394ca40b78eafc77af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SunnyLand House Props Expansion Pack/Props PNG/rock-1.png using Guid(da815d2f6d670394ca40b78eafc77af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f32e2ed7b16594d95d219cf881239360') in 0.113695 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/SunnyLand House Props Expansion Pack/Props PNG/straw-house.png
+  artifactKey: Guid(21e65559107eeb14590b601e0e668ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SunnyLand House Props Expansion Pack/Props PNG/straw-house.png using Guid(21e65559107eeb14590b601e0e668ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33f704e705dd6884e5d3e0233ed0e4d9') in 0.034254 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: ќпераци€ ввода/вывода была прервана из-за завершени€ потока команд или по запросу приложени€.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
