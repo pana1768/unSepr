@@ -13,7 +13,6 @@ public class PlayerVisual : MonoBehaviour
 
     private void Update()
     {
-        if (animator != null) { 
-        }
+        animator.SetBool
     }
 }

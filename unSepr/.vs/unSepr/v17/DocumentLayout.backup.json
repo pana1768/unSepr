@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{65B5A490-4C74-88DD-698D-CFF35E14F094}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65B5A490-4C74-88DD-698D-CFF35E14F094}|Assembly-CSharp.csproj|e:\\unity\\unsepr\\unsepr\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65B5A490-4C74-88DD-698D-CFF35E14F094}|Assembly-CSharp.csproj|E:\\unity\\unSepr\\unSepr\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65B5A490-4C74-88DD-698D-CFF35E14F094}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -43,8 +43,7 @@
               "RelativeToolTip": "Assets\\scripts\\player.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T19:36:45.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T19:36:45.966Z"
             }
           ]
         }
