@@ -52,4 +52,10 @@ public class player : MonoBehaviour
     {
         return isrunning;
     }
+
+    public Vector3 GetPlayerPosition()
+    {
+        Vector3 PlayerPosition = Camera.main.WorldToScreenPoint(transform.position);
+        return PlayerPosition;
+    }
 }

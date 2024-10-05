@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{65B5A490-4C74-88DD-698D-CFF35E14F094}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65B5A490-4C74-88DD-698D-CFF35E14F094}|Assembly-CSharp.csproj|e:\\unity\\unsepr\\unsepr\\assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65B5A490-4C74-88DD-698D-CFF35E14F094}|Assembly-CSharp.csproj|E:\\unity\\unSepr\\unSepr\\assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65B5A490-4C74-88DD-698D-CFF35E14F094}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Assets\\scripts\\PlayerVisual.cs",
               "ToolTip": "E:\\unity\\unSepr\\unSepr\\Assets\\scripts\\PlayerVisual.cs",
               "RelativeToolTip": "Assets\\scripts\\PlayerVisual.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T21:45:04.49Z",
               "EditorCaption": ""
@@ -45,10 +45,9 @@
               "RelativeDocumentMoniker": "Assets\\scripts\\GameInput.cs",
               "ToolTip": "E:\\unity\\unSepr\\unSepr\\Assets\\scripts\\GameInput.cs",
               "RelativeToolTip": "Assets\\scripts\\GameInput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T21:06:33.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T21:06:33.64Z"
             },
             {
               "$type": "Document",
@@ -58,10 +57,9 @@
               "RelativeDocumentMoniker": "Assets\\scripts\\player.cs",
               "ToolTip": "E:\\unity\\unSepr\\unSepr\\Assets\\scripts\\player.cs",
               "RelativeToolTip": "Assets\\scripts\\player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T19:36:45.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T19:36:45.966Z"
             }
           ]
         }
