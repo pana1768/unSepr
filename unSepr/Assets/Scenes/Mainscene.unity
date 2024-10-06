@@ -432,7 +432,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 25
+  orthographic size: 10
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -1082,7 +1082,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -1467383495, guid: dd2440c4a1e0c8a43a80083602d47543, type: 3}
+  m_Sprite: {fileID: 1724649053, guid: f90b50be9173c4548984e47da97bd936, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1324,8 +1324,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.01453339, y: -0.10173048}
-  m_Size: {x: 0.6415231, y: 0.3411766}
+  m_Offset: {x: 0.026909247, y: 0.09852616}
+  m_Size: {x: 1.0933952, y: 0.30607972}
   m_Direction: 1
 --- !u!1 &1984955322
 GameObject:
