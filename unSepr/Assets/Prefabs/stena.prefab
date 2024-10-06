@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 9052517514040187114}
   - component: {fileID: 7505356512981213538}
   - component: {fileID: 3583147800636633701}
+  - component: {fileID: 7288732529540290937}
   m_Layer: 0
   m_Name: stena
   m_TagString: Untagged
@@ -130,3 +131,19 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 2}
   m_EdgeRadius: 0
+--- !u!114 &7288732529540290937
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4988541331914824173}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fa0352a4d56abd42ad2fc69deb72448, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Size: {x: 1.027031, y: 2.0129976, z: 4}
+  m_Center: {x: 0.0029907227, y: -0.0019564629, z: 0}
+  m_Area: 1
+  m_AffectedAgents: ffffffff

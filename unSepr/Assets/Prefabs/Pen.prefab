@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1481026539501820951}
   - component: {fileID: 6468088803709369874}
   - component: {fileID: 1872662063528161589}
+  - component: {fileID: 7098568055908711491}
   m_Layer: 0
   m_Name: Pen
   m_TagString: Untagged
@@ -120,3 +121,19 @@ CapsuleCollider2D:
   m_Offset: {x: 0.016051281, y: 0.39004782}
   m_Size: {x: 0.95620203, y: 0.8645842}
   m_Direction: 1
+--- !u!114 &7098568055908711491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7077907104368788505}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fa0352a4d56abd42ad2fc69deb72448, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Size: {x: 0.99568653, y: 0.9503286, z: 4}
+  m_Center: {x: 0.021057606, y: 0.37527132, z: 0}
+  m_Area: 1
+  m_AffectedAgents: ffffffff
