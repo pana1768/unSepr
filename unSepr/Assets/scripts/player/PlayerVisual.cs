@@ -19,6 +19,10 @@ public class PlayerVisual : MonoBehaviour
     {
         animator.SetBool(IS_RUNNING, player.Instance.IsRunning());
         AdjustPlayerFacingDirections();
+        if (Input.GetKeyDown(KeyCode.Space)) // Или любую другую кнопку
+        {
+            PlayAttackAnimation();
+        }
     }
 
     private void AdjustPlayerFacingDirections()
@@ -34,5 +38,15 @@ public class PlayerVisual : MonoBehaviour
         {
             spriteRender.flipX = false;
         }
+    }
+
+    void Start()
+    {
+        animator = GetComponent<Animator>();
+    }
+
+    void PlayAttackAnimation()
+    {
+        animator.SetTrigger("Attack"); // Замените "Attack" на имя вашего триггера
     }
 }

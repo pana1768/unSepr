@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\unity\\unSepr\\unSepr\\",
+  "WorkspaceRootPath": "D:\\projects\\unSepr\\unSepr\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65B5A490-4C74-88DD-698D-CFF35E14F094}|Assembly-CSharp.csproj|e:\\unity\\unsepr\\unsepr\\assets\\scripts\\slime\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65B5A490-4C74-88DD-698D-CFF35E14F094}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\slime\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65B5A490-4C74-88DD-698D-CFF35E14F094}|Assembly-CSharp.csproj|d:\\projects\\unsepr\\unsepr\\assets\\scripts\\player\\playervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B5A490-4C74-88DD-698D-CFF35E14F094}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity\\unSepr\\unSepr\\Assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65B5A490-4C74-88DD-698D-CFF35E14F094}|Assembly-CSharp.csproj|D:\\projects\\unSepr\\unSepr\\assets\\scripts\\player\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B5A490-4C74-88DD-698D-CFF35E14F094}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity\\unSepr\\unSepr\\Assets\\scripts\\PlayerVisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\PlayerVisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\unity\\unSepr\\unSepr\\Assets\\scripts\\GameInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\GameInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65B5A490-4C74-88DD-698D-CFF35E14F094}|Assembly-CSharp.csproj|D:\\projects\\unSepr\\unSepr\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B5A490-4C74-88DD-698D-CFF35E14F094}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,50 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EnemyAI.cs",
-              "DocumentMoniker": "E:\\unity\\unSepr\\unSepr\\Assets\\scripts\\Slime\\EnemyAI.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\Slime\\EnemyAI.cs",
-              "ToolTip": "E:\\unity\\unSepr\\unSepr\\Assets\\scripts\\Slime\\EnemyAI.cs",
-              "RelativeToolTip": "Assets\\scripts\\Slime\\EnemyAI.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAwwD8AAAAwAAAAAAAAAA==",
+              "Title": "PlayerVisual.cs",
+              "DocumentMoniker": "D:\\projects\\unSepr\\unSepr\\Assets\\scripts\\player\\PlayerVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\player\\PlayerVisual.cs",
+              "ToolTip": "D:\\projects\\unSepr\\unSepr\\Assets\\scripts\\player\\PlayerVisual.cs",
+              "RelativeToolTip": "Assets\\scripts\\player\\PlayerVisual.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAApwCYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T20:15:56.565Z",
+              "WhenOpened": "2024-10-06T15:53:17.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PlayerVisual.cs",
-              "DocumentMoniker": "E:\\unity\\unSepr\\unSepr\\Assets\\scripts\\PlayerVisual.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\PlayerVisual.cs",
-              "ToolTip": "E:\\unity\\unSepr\\unSepr\\Assets\\scripts\\PlayerVisual.cs",
-              "RelativeToolTip": "Assets\\scripts\\PlayerVisual.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Title": "player.cs",
+              "DocumentMoniker": "D:\\projects\\unSepr\\unSepr\\Assets\\scripts\\player\\player.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\player\\player.cs",
+              "ToolTip": "D:\\projects\\unSepr\\unSepr\\Assets\\scripts\\player\\player.cs",
+              "RelativeToolTip": "Assets\\scripts\\player\\player.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T21:45:04.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GameInput.cs",
-              "DocumentMoniker": "E:\\unity\\unSepr\\unSepr\\Assets\\scripts\\GameInput.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\GameInput.cs",
-              "ToolTip": "E:\\unity\\unSepr\\unSepr\\Assets\\scripts\\GameInput.cs",
-              "RelativeToolTip": "Assets\\scripts\\GameInput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T21:06:33.64Z"
+              "WhenOpened": "2024-10-06T15:49:25.514Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "player.cs",
-              "DocumentMoniker": "E:\\unity\\unSepr\\unSepr\\Assets\\scripts\\player.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\player.cs",
-              "ToolTip": "E:\\unity\\unSepr\\unSepr\\Assets\\scripts\\player.cs",
-              "RelativeToolTip": "Assets\\scripts\\player.cs",
+              "Title": "GameInput.cs",
+              "DocumentMoniker": "D:\\projects\\unSepr\\unSepr\\Assets\\scripts\\player\\GameInput.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\player\\GameInput.cs",
+              "ToolTip": "D:\\projects\\unSepr\\unSepr\\Assets\\scripts\\player\\GameInput.cs",
+              "RelativeToolTip": "Assets\\scripts\\player\\GameInput.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T19:36:45.966Z"
+              "WhenOpened": "2024-10-06T15:48:50.608Z"
             }
           ]
         }
